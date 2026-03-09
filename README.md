@@ -8,7 +8,7 @@
 
 ## 🌵 Sobre o Projeto
 
-O **Museu Virtual da Caatinga** é uma experiência imersiva em Realidade Virtual (VR) desenvolvida como projeto final para a Residência em TIC 29 (Web 3.0). O objetivo é valorizar e difundir a riqueza do bioma da Caatinga e da cultura nordestina, muitas vezes sub-representados.
+O **Museu Virtual da Caatinga** é uma experiência imersiva em Realidade Virtual (VR) desenvolvida como projeto final na trilha metaverso para a Residência em TIC 29 (Web 3.0). O objetivo é valorizar e difundir a riqueza do bioma da Caatinga e da cultura nordestina, muitas vezes sub-representados.
 
 O ambiente transporta o usuário para um cenário que representa a beleza do sertão, onde é possível aprender sobre espécies típicas da flora e interagir com elementos icônicos da cultura regional.
 
