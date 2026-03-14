@@ -33,7 +33,7 @@ Um dos grandes diferenciais deste projeto é que **todos os assets 3D foram cria
 </p>
 
 <p>
-  Clique na imagem para explorar o modelo 3D interativo no Sketchfab.
+  Clique na imagem para explorar o modelo 3D no Sketchfab.
 </p>
 
 ## 🛠️ Tecnologias Utilizadas
