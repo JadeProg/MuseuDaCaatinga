@@ -25,15 +25,25 @@ O ambiente transporta o usuário para um cenário que representa a beleza do ser
 *   **Interatividade:** Pegue e manipule objetos simbólicos como um chapéu de cangaço e um triângulo, instrumento clássico do forró.
 
 ## 🎨 Assets Autorais
-
 Um dos grandes diferenciais deste projeto é que **todos os assets 3D foram criados do zero pela desenvolvedora**. A decisão foi motivada pela escassez de recursos 3D disponíveis e gratuitos sobre a Caatinga, e pelo desejo de criar uma experiência visualmente única e autêntica.
+<p>
+  <a href="https://sketchfab.com/3d-models/museu-da-caatinga-b59b2f11f2be43888e19aa3db41eb4b1">
+    <img src="https://drive.google.com/uc?export=view&id=1g2Uh2lvjUpFDwWKx7P7xu5IQYqhrdubn" width="250">
+  </a>
+</p>
+
+<p>
+  Clique na imagem para explorar o modelo 3D interativo no Sketchfab.
+</p>
 
 ## 🛠️ Tecnologias Utilizadas
 
-*   **Engine:** Unity 3D (URP)
-*   **SDK de VR:** Meta XR SDK (Oculus Integration)
-*   **Software de Modelagem:** Blender 
-*   **Plataforma Alvo:** Meta Quest 2 / 3
+- Unity (URP)
+- Meta XR SDK / VR Interaction
+- Modelagem 3D autoral (Blender)
+- Canvas UI para painéis informativos
+- Scripts em C# para interação com objetos
+- Plataforma alvo: Meta Quest 2 / 3
 
 ## ⁇ Como Executar
 
@@ -52,4 +62,3 @@ Para testar o projeto no Unity Editor:
 
 ---
 _Este projeto foi desenvolvido como parte da Residência em TIC 29._
-
